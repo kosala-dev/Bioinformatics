@@ -1,0 +1,41 @@
+Patient_ID,Age,Gender,Disease_Status,Gene_A_Expression,Gene_B_Expression,Gene_C_Expression,Blood_Pressure,Glucose,Mutation_A,Mutation_B,Mutation_C
+P1001,60,Male,At Risk,5.55,5.97,4.94,148,115.0,Yes,Yes,Yes
+P1002,50,Female,Healthy,4.43,5.54,3.4,137,102.0,No,Yes,No
+P1003,36,Male,Disease,8.65,8.22,4.44,147,102.0,No,Yes,No
+P1004,64,Female,Healthy,3.74,5.73,4.31,141,93.0,Yes,Yes,No
+P1005,29,Male,Disease,8.17,7.84,3.23,110,111.0,Yes,No,No
+P1006,42,Female,Healthy,5.42,2.76,3.44,128,89.0,Yes,Yes,No
+P1007,60,Female,At Risk,4.35,5.09,3.87,130,113.0,Yes,No,No
+P1008,40,Male,Healthy,4.89,8.25,5.17,135,,No,No,No
+P1009,44,Female,At Risk,7.16,6.57,5.55,130,90.0,No,Yes,No
+P1010,32,Female,Healthy,6.11,3.32,5.13,122,96.0,No,No,No
+P1011,32,Male,Disease,9.09,5.78,5.34,122,107.0,Yes,Yes,No
+P1012,45,Female,Disease,7.47,5.91,6.75,136,117.0,Yes,Yes,No
+P1013,57,Male,Disease,11.72,7.66,3.31,133,114.0,Yes,No,No
+P1014,61,Female,Disease,5.71,6.81,3.45,145,120.0,Yes,No,Yes
+P1015,45,Male,At Risk,5.24,5.55,2.57,138,120.0,No,No,No
+P1016,24,Male,Healthy,4.91,6.01,5.93,115,90.0,No,No,Yes
+P1017,43,Male,Healthy,3.01,6.76,6.06,121,102.0,No,No,No
+P1018,23,Male,Disease,8.46,7.09,2.66,114,95.0,Yes,Yes,Yes
+P1019,45,Male,Healthy,6.26,5.08,5.24,135,120.0,Yes,Yes,No
+P1020,65,Male,Disease,7.03,,5.16,141,142.0,Yes,No,Yes
+P1021,51,Female,Disease,6.25,8.04,3.97,138,131.0,Yes,No,Yes
+P1022,59,Male,Healthy,2.91,5.99,5.52,152,112.0,No,No,Yes
+P1023,23,Female,Healthy,3.9,7.23,4.71,119,88.0,No,No,No
+P1024,42,Male,Disease,8.04,5.66,2.24,122,119.0,No,Yes,No
+P1025,54,Female,Disease,6.7,6.26,4.96,143,130.0,Yes,No,Yes
+P1026,33,Female,Healthy,4.4,7.24,6.09,124,87.0,Yes,No,Yes
+P1027,43,Female,At Risk,6.5,5.32,5.18,136,101.0,No,No,No
+P1028,65,Female,Disease,8.62,9.71,2.55,149,110.0,Yes,No,Yes
+P1029,46,Male,Disease,7.36,9.75,2.8,123,110.0,Yes,Yes,No
+P1030,70,Female,Disease,7.44,9.73,2.34,155,142.0,No,No,No
+P1031,48,Female,Disease,8.92,6.09,4.62,139,115.0,Yes,No,Yes
+P1032,63,Male,Disease,7.25,7.62,5.22,135,121.0,Yes,Yes,Yes
+P1033,49,Male,At Risk,5.37,5.81,4.81,134,111.0,No,No,No
+P1034,37,Male,At Risk,6.74,8.08,5.43,127,88.0,No,No,No
+P1035,36,Female,At Risk,5.44,9.33,3.26,125,111.0,No,No,No
+P1036,68,Male,At Risk,5.29,8.0,4.48,149,128.0,No,No,No
+P1037,65,Female,At Risk,7.58,6.61,2.66,152,119.0,No,No,No
+P1038,24,Female,At Risk,5.39,6.02,3.37,118,112.0,No,No,No
+P1039,58,Female,Healthy,1.28,7.04,5.55,148,92.0,No,Yes,No
+P1040,28,Male,At Risk,6.28,4.64,4.01,128,115.0,Yes,No,No

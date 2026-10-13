@@ -1,0 +1,11 @@
+PatientID,Age,Gender,TumorType,ImmunotherapyType,BiomarkerExpressionLevel,TreatmentResponse,SurvivalInMonths,Relapse,MutationCount
+P001,45,F,Lung,PD-1 Inhibitor,High,Partial Response,12,Yes,150
+P002,67,M,Breast,CTLA-4 Inhibitor,Low,Stable Disease,20,No,320
+P003,55,F,Melanoma,PD-L1 Inhibitor,Medium,Complete Response,36,No,50
+P004,70,M,Lung,PD-1 Inhibitor,High,Progressive Disease,10,Yes,200
+P005,38,F,Lung,CTLA-4 Inhibitor,Medium,Partial Response,24,No,80
+P006,60,F,Melanoma,PD-L1 Inhibitor,High,Stable Disease,30,Yes,220
+P007,72,M,Breast,PD-1 Inhibitor,Low,Progressive Disease,8,Yes,400
+P008,50,F,Melanoma,CTLA-4 Inhibitor,Medium,Complete Response,48,No,180
+P009,65,M,Lung,PD-L1 Inhibitor,High,Stable Disease,14,No,250
+P010,42,F,Breast,PD-1 Inhibitor,Low,Partial Response,16,Yes,300
